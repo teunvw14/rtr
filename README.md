@@ -22,6 +22,6 @@ FLAGS:
 
 # Example
 
-Showing a tree of all the files in this directory:
+Showing a tree of all the files in this repository:
 
 ![f](res/example.png)
